@@ -1,0 +1,70 @@
+26.04.2022
+--------------------------------
+	Katılanlar
+	--------------------------
+	  Mustafa Erdem Ekici
+	  Gözde Buse Öcal
+
+	Alınan Kararlar
+	--------------------------
+	  Scrum Master'ın kim olacağına ve yeni toplantı tarihine karar verildi.
+	  Akademik yoğunluklardan dolayı bir sonraki toplantı ileri bir tarihe alındı.
+	  Github reposu açılmış ve github hesabı olanlar contributor olarak eklenmiştir.
+
+29.04.2022
+--------------------------------
+	Katılanlar
+	--------------------------
+	  Mustafa Erdem Ekici
+	  Gözde Buse Öcal
+	  Senanur Keretli
+
+	Alınan Kararlar
+	--------------------------
+	  Ürün sahibi belirlendi.
+	  Her sprintte yapılması gereken detaylar belirlendi.
+	    1. sprint -> Planlama ve Tasarım
+	    2. sprint -> Yazılım ve Geliştirme
+	    3. sprint -> İyileştirme ve Hata Giderme
+	  Yeni toplantı tarih, saat ve konusu belirlendi.
+	    Bir sonraki toplantıya kadar oyun ile ilgili detayların düşünülmesine,
+	    Toplantıda da bu bulunan fikirlerin tartışılmasına karar verildi.
+
+01.05.2022
+--------------------------------
+	Katılanlar
+	--------------------------
+	  Mustafa Erdem Ekici
+	  Gözde Buse Öcal
+	  Senanur Keretli
+	  Mert Okumuş
+
+	Alınan Kararlar
+	--------------------------
+	  Oyunun konusu kararlaştırıldı.
+	    Çocuklara arkeoloji hakkında eğlendirerek bilgi vermek amacıyla oyunun teması arkeoloji üzerine oldu.
+	    Oyunda arkeolog karakter zaman makinesine binerek düşmanlarla savaşacak ve topladığı tarihi eser parçalarıyla kayıp eserleri bulacaktır.
+	    Oyunda bulunan her eser için bilgiler verilmesi gerekli görülmüştür.
+	    Oyunun 2 boyutlu platform bilgisayar oyunu olmasına karar verilmiştir.
+	  Yeni toplantı tarih, saat ve konusu belirlenmiştir.
+	    Bir sonraki toplantı için herkes ziyaret edilebilecek tarihi çağlara, düşmanlara ve toplanacak tarihi eserler hakkında fikir bulacaklardır.
+
+02.05.2022
+--------------------------------
+	Katılanlar
+	--------------------------
+	  Mustafa Erdem Ekici
+	  Gözde Buse Öcal
+	  Senanur Keretli
+
+	Alınan Kararlar
+	--------------------------
+	  Arkeologun gideceği tarihi çaplar belirlenmiştir.
+	    Dinazor çağı; 3 tane dinazor kemiği bulunacak, düşman dinazor.
+	    İlk çağa geçiş; 3 tane yazı tableti bulunacak(yazının icadı), düşman mağara adamı.
+	    Orta çağ; 3 tane kılıç parçası bulunacak, düşman şövalyeler.
+	    Truva Savaşı; 3 tane tahta at parçası bulunacak, düşman Yunan askerleri.
+	    Buzul çağı; 3 tane mamut parçası bulunacak, düşman mamut.
+	  Kazanılacak nesneler kararlaştırılmış her belirli sayıda toplanan nesnede sandık anahtarı bulunmasına, her sandıkta da ödül olmasına karar verilmiştir.
+	  Oyunun tarihi sıraya göre değil zorluk seviyesine göre ilerlemesine karar verilmiştir.
+	  Bir sonraki toplantı için asset araştırılması kararlaştırılmıştır.
