@@ -53,7 +53,7 @@ Kararlaştırılmadı.
 
 - **Sprint Review**: -
 
-- **Sprint Retrospective:** -
+- **Sprint Retrospective:** Toplantılarımızı sıklaştırmaya karar verdik.
 
 -**Diğer Notlar**:
 - Grup üyelerimizin kimilerinin iş, kimilerinin akademik, kimilerinin hem iş hem akademik yoğunluğunun çakışmasından dolayı bu sprint için gereken işlerin büyük bir kısmını yapamamış bulunmaktayız. Bu konuda sizlerden özür diler ve bootcamp sürecinin kalanında elimizden geleni yapacağımızı bilmenizi isteriz.
