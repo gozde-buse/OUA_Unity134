@@ -1,0 +1,27 @@
+OYUN İÇİ
+--------------------------
+-Toplanacak nesneler; kemik, yazılı tablet parçası, mamut dişi, kılıcın bıçak kısmı, tahta parçaları
+-Ödüller; anahtar, sandık, bütün bir dinazor iskeleti, truva atı, eski bir kılıç, yazı tableti
+-Arkaplan ve platformlar;
+	1. Arkaplan, orman gibi bir yer, arkada dağlar görülebilir, tarih öncesi his açısından yanan bir volkan eklenebilir.
+	   Platform, yeşil çimenlik bir alan, çimenin altı toprak olabilir ama tuğla olmasın.
+	2. Arkaplan, buz tutmuş bir yer, karlı dağlar, ağaç yok, donmuş yapılar olabilir.
+	   Platform, buz tutmuş yerler.
+	3. Arkaplan, eski Yunan yapıları. Amfitiyatro gibi bir şey olabilir.
+	   Platform, beyaz taş zamin ve beyaz sütunlar.
+	4. Arkaplan, şato gibi bir şey ve dağlık alan olabilir. Küçük ev gibi yapılar da bulunabilir.
+	   Platform, taş tuğlalar ve toprak birleşimi olabilir.
+	5. Arkaplan mağara, duvarlarda mağara resimleri.
+	   Platform, mağaraya uygun taşlar.
+-Genel level içi; zaman makinesi. (Level sonundaki kapı olacak.)
+-Karakter; arkeolog, idle, yürüme, koşma, fırlatma animasyonları, taş (düşmana fırlatması için)
+-Düşmanlar;
+	1. Dinazor, idle, yürüme, pençe ile saldırma animasyonları.
+	2. Yunan askeri, idle, yürüme, kılıç ile saldırma animasyonları.
+	3. Mağara adamı, idle, yürüme, mızrak ile saldırma animasyonları.
+	4. Şövalye, idle, yürüme, kılıç ile saldırma animasyonları.
+	5. Mamut, idle, yürüme, kafası ile saldırma animasyonları.
+
+ARA YÜZ
+--------------------------
+Karar verilmedi.
