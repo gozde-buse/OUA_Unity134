@@ -9,7 +9,7 @@
 	--------------------------
 	  Scrum Master'ın kim olacağına ve yeni toplantı tarihine karar verildi.
 	  Akademik yoğunluklardan dolayı bir sonraki toplantı ileri bir tarihe alındı.
-	  Github reposu açılmış ve github hesabı olanlar contributor olarak eklenmiştir.
+	  Github reposu açılmış ve github hesabı olanlar collaborator olarak eklenmiştir.
 
 29.04.2022
 --------------------------------
