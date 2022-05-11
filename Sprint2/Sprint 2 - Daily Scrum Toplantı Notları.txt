@@ -1,0 +1,35 @@
+10.05.2022
+--------------------------------
+	Katılanlar
+	--------------------------
+	  Yunus Çivici
+	  Gözde Buse Öcal
+
+	Alınan Kararlar
+	--------------------------
+	  Backlogların yazımına öncelik verilmesine karar verildi.
+	  Basit bir oyun projesi şablonu çıkarılmasına karar verildi.
+
+	Biten
+	--------------------------
+	  Gözde, gerekli 2-boyutlu görsel asset listesi paylaştı.
+
+11.05.2022
+--------------------------------
+	Katılanlar
+	--------------------------
+	  Gözde Buse Öcal
+	  Emre Küçükarslan
+
+	Alınan Kararlar
+	--------------------------
+	  Herkesin katılabileceği bir toplantı günü ayarlanmasına gerektiği dile getirildi.
+
+	Konuşulanlar
+	--------------------------
+	  Emre bulduğu assetlerle ilgili siteleri paylaştı.
+
+	Biten
+	--------------------------
+	  Gözde, basit bir proje şablonu hazırladı.
+	  
