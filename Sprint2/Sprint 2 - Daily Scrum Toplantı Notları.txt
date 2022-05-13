@@ -25,11 +25,7 @@
 	--------------------------
 	  Herkesin katılabileceği bir toplantı günü ayarlanmasına gerektiği dile getirildi.
 
-	Konuşulanlar
-	--------------------------
-	  Emre bulduğu assetlerle ilgili siteleri paylaştı.
-
 	Biten
 	--------------------------
+	  Emre bulduğu assetlerle ilgili siteleri paylaştı.
 	  Gözde, basit bir proje şablonu hazırladı.
-	  
