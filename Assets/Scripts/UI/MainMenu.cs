@@ -6,6 +6,15 @@ public class MainMenu : MonoBehaviour
 {
     //Oyuna başlama, oyundan çıkma butonlarının olduğu sayfanın kontrollerini sağlayan sınıf
 
-    //public void Start() {}
-    //public void Quit() {}
+    //void Start() {}
+
+    public void StartGame()
+    {
+        SceneController.instance.LoadScene("LevelSelection");
+    }
+
+    public void Quit()
+    {
+        Application.Quit();
+    }
 }
