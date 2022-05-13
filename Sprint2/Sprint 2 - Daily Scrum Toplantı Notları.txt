@@ -29,3 +29,9 @@
 	--------------------------
 	  Emre bulduğu assetlerle ilgili siteleri paylaştı.
 	  Gözde, basit bir proje şablonu hazırladı.
+
+13.05.2022
+--------------------------------
+	Biten
+	--------------------------
+	  Gözde, ana menüyü(mockup) hazırladı.
