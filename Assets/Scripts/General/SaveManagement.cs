@@ -29,6 +29,8 @@ public class SaveManagement
             FileStream stream = new FileStream(path, FileMode.Open);
 
             PlayerData data = formatter.Deserialize(stream) as PlayerData;
+            Debug.Log(data.userName);
+
             data.LoadData();
             stream.Close();
         }
@@ -46,10 +48,10 @@ public class SaveManagement
 [Serializable]
 public class PlayerData
 {
-    private static string userName;
-    private static int score;
-    private static int level;
-    private static string unlockedCollactables;
+    public string userName;
+    public int score;
+    public int level;
+    public string unlockedCollactables;
 
     public PlayerData()
     {

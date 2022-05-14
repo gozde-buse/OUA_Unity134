@@ -16,5 +16,7 @@ public class Init : MonoBehaviour
 
             return;
         }
+
+        SceneController.LoadScene("MainMenu");
     }
 }
