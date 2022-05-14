@@ -3,36 +3,21 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class SceneController : MonoBehaviour
+public class SceneController
 {
     //Sahneler arası geçişi kontrol edecek.
 
-    public static SceneController instance { get; private set; }
-
-    [HideInInspector] public string prevScene;
-
-    void Start()
-    {
-        if(instance == null)
-        {
-            instance = this;
-            DontDestroyOnLoad(gameObject);
-        }
-        else
-        {
-            Destroy(gameObject);
-        }
-    }
+    public static string prevScene;
 
     //Sahneyi yükleyecek.
-    public void LoadScene(string sceneName)
+    public static void LoadScene(string sceneName)
     {
         prevScene = SceneManager.GetActiveScene().name;
         SceneManager.LoadScene(sceneName);
     }
 
     //Önceki sahneyi yükleyecek.
-    private void LoadPrevScene()
+    private static void LoadPrevScene()
     {
         if(prevScene != "")
         {

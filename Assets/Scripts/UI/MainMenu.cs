@@ -1,16 +1,23 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class MainMenu : MonoBehaviour
 {
     //Oyuna başlama, oyundan çıkma butonlarının olduğu sayfanın kontrollerini sağlayan sınıf
+    [SerializeField] private Text welcomeText;
+    [SerializeField] private Text scoreText;
 
-    //void Start() {}
+    void Start()
+    {
+        welcomeText.text = "Hoş geldin, " + Status.userName + ".";
+        scoreText.text = "Puan: " + Status.score;
+    }
 
     public void StartGame()
     {
-        SceneController.instance.LoadScene("LevelSelection");
+        SceneController.LoadScene("LevelSelection");
     }
 
     public void Quit()
