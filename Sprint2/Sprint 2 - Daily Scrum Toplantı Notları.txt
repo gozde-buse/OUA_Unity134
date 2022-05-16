@@ -35,3 +35,26 @@
 	Biten
 	--------------------------
 	  Gözde, ana menüyü(mockup) hazırladı.
+
+15.05.2022
+--------------------------------
+	Katılanlar
+	--------------------------
+	  Yunus Çivici
+	  Mustafa Erden Ekici
+	  Gözde Buse Öcal
+	  Senanur Keretli
+	  Emre Küçükarslan
+
+	Alınan Kararlar
+	--------------------------
+	  Görev dağılımı yapıldı.
+	    Emre, asset bulma ve level tasarımını,
+	    Senanur, level oluşturmayı,
+	    Erdem, karakter kontrollerini,
+	    Yunus, düşman kodlarını,
+	    Gözde, arayüzü aldı.
+
+	Biten
+	--------------------------
+	  Backloglar, yapılacaklar listesi gibi yazıldı. Kullanıcı hikayesi ve puan atamaya hazır hale getirildi.
