@@ -29,7 +29,6 @@ public class SaveManagement
             FileStream stream = new FileStream(path, FileMode.Open);
 
             PlayerData data = formatter.Deserialize(stream) as PlayerData;
-            Debug.Log(data.userName);
 
             data.LoadData();
             stream.Close();

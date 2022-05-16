@@ -17,9 +17,9 @@ public class SceneController
     }
 
     //Önceki sahneyi yükleyecek.
-    private static void LoadPrevScene()
+    public static void LoadPrevScene()
     {
-        if(prevScene != "")
+        if (prevScene != "")
         {
             SceneManager.LoadScene(prevScene);
             prevScene = "";
