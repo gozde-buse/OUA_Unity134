@@ -30,15 +30,15 @@ Kararlaştırılmadı.
 - Arkeoloji meraklıları
 
 ## Product Backlog URL
+[Backlog Linki](https://miro.com/app/board/uXjVO0wr1lo=/)
 
+- **Puan tamamlama mantığı**: -
 
 # Sprint 1
 
 - **Sprint Notları**: Bu sprintte oyunun tasarım kısmı üzerinde duruldu.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: -
-
-- **Puan tamamlama mantığı**: -
 
 - **Backlog düzeni ve Story seçimleri**: -
 
