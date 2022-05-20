@@ -19,6 +19,7 @@ public class Register : MonoBehaviour
         }
 
         Status.SetUserName(userNameField.text);
+        Status.SetLevel(1);
         SaveManagement.Save();
         SceneController.LoadScene("MainMenu");
     }

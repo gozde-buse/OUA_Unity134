@@ -23,7 +23,7 @@ public static class Status
 
     public static void SetLevel(int level)
     {
-        Status.score = score;
+        Status.level = level;
     }
 
     public static void SetUnlockedCollactables(int index)
