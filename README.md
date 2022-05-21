@@ -32,7 +32,7 @@ Kararlaştırılmadı.
 ## Product Backlog URL
 [Backlog Linki](https://miro.com/app/board/uXjVO0wr1lo=/)
 
-- **Puan tamamlama mantığı**: -
+- **Detaylar**: Puanlar Finobacci sayılarına göre belirlenmiştir. Linktekiboardda bulnan kartların açıklama kısımlarında, kullanıcı hikayeleri ve puanları yer almaktadır.
 
 # Sprint 1
 
@@ -57,3 +57,13 @@ Kararlaştırılmadı.
 
 -**Diğer Notlar**:
 - Grup üyelerimizin kimilerinin iş, kimilerinin akademik, kimilerinin hem iş hem akademik yoğunluğunun çakışmasından dolayı bu sprint için gereken işlerin büyük bir kısmını yapamamış bulunmaktayız. Bu konuda sizlerden özür diler ve bootcamp sürecinin kalanında elimizden geleni yapacağımızı bilmenizi isteriz.
+
+# Sprint 2
+
+- **Sprint Notları**: Bu sprintte oyunun tasarım ve yazılım kısmı üzerinde duruldu.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: Sprint sonuna kadar 120 puan tamamlanması planlanmaktadır.
+
+- **Puan tamamlama mantığı**: Sprint 2 başında 209 puanlık iş kalmıştır.
+
+- **Backlog düzeni ve Story seçimleri**: Boardda hangi kullanıcı hikayelerin sprint 2 için seçildiği açıklama kısmında yazmaktadır.
