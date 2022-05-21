@@ -20,6 +20,11 @@ public class MainMenu : MonoBehaviour
         SceneController.LoadScene("LevelSelection");
     }
 
+    public void GoCards()
+    {
+        SceneController.LoadScene("ItemList");
+    }
+
     public void Quit()
     {
         Application.Quit();
