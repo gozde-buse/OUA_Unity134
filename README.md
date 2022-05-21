@@ -62,7 +62,7 @@ Kararlaştırılmadı.
 
 - **Sprint Notları**: Bu sprintte oyunun tasarım ve yazılım kısmı üzerinde duruldu.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: Sprint sonuna kadar 120 puan tamamlanması planlanmaktadır.
+- **Sprint içinde tamamlanması tahmin edilen puan**: Sprint sonuna kadar 110 puan tamamlanması planlanmaktadır.
 
 - **Puan tamamlama mantığı**: Sprint 2 başında 209 puanlık iş kalmıştır.
 
