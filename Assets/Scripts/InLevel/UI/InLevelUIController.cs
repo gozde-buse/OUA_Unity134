@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class InLevelUIController : MonoBehaviour
 {
     public int minCountToKey = 30;
+    public int maxLevel = 5;
 
     [Header("Life UI")]
     [SerializeField] private Image[] hearts;
@@ -24,15 +25,29 @@ public class InLevelUIController : MonoBehaviour
     [SerializeField] private Image keyBgImage;
     [SerializeField] private Sprite keyOnBgSprite;
 
+    [Header("End Game UI")]
+    [SerializeField] private Image collectableEndImage;
+    [SerializeField] private Text collectableEndCountText;
+    [SerializeField] private Button nextLevelButton;
+
+    [Header("End Game Gain UI")]
+    [SerializeField] private GameObject endGamePanel;
+    [SerializeField] private GameObject itemPanel;
+    [SerializeField] private Image itemImage;
+    [SerializeField] private Sprite[] itemSprites;
+
+    private int levelIndex;
     private int heartIndex = 4;
     private int collectableCount = 0;
+    private bool itemCollected;
 
     private enum LifeStatus { Full, Half }
     private LifeStatus lifeStatus = LifeStatus.Full;
 
-    public void Load()
+    public void Load(int level)
     {
-        collectableImage.sprite = collectableSprites[Status.level];
+        levelIndex = level;
+        collectableImage.sprite = collectableSprites[levelIndex];
     }
 
     public void TakeLife()
@@ -59,6 +74,22 @@ public class InLevelUIController : MonoBehaviour
         if (collectableCount == minCountToKey)
             ActivateKey();
     }
+    public void EndGame()
+    {
+        collectableEndCountText.text = "x" + collectableCount.ToString() + " toplandý!";
+        collectableEndImage.sprite = collectableSprites[levelIndex];
+
+        if(itemCollected)
+        {
+            itemImage.sprite = itemSprites[levelIndex];
+            itemPanel.SetActive(true);
+        }
+
+        if(levelIndex == maxLevel)
+            nextLevelButton.interactable = false;
+
+        endGamePanel.SetActive(true);
+    }
 
     private void ActivateKey()
     {
@@ -68,10 +99,27 @@ public class InLevelUIController : MonoBehaviour
         keyBgImage.sprite = keyOnBgSprite;
     }
 
+    public void GoToLevels()
+    {
+        SceneController.LoadScene("LevelSelection");
+    }
+
+    public void Retry()
+    {
+        SceneController.LoadScene("Level" + levelIndex.ToString());
+    }
+
+    public void NextLevel()
+    {
+        int nextLevelIndex = levelIndex + 1;
+        SceneController.LoadScene("Level" + nextLevelIndex.ToString());
+    }
+
     //Test için oluþturuldu. Silinecek.
     void Start()
     {
-        collectableImage.sprite = collectableSprites[1];
+        levelIndex = 3;
+        collectableImage.sprite = collectableSprites[levelIndex];
     }
 
     //Test için oluþturuldu. Silinecek.
@@ -82,5 +130,11 @@ public class InLevelUIController : MonoBehaviour
 
         if (Input.GetMouseButtonDown(1))
             Collect();
+
+        /*if (collectableCount == 40)
+            itemCollected = true;*/
+
+        if (collectableCount == 50)
+            EndGame();
     }
 }

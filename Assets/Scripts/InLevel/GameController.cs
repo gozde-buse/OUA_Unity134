@@ -9,6 +9,6 @@ public class GameController : MonoBehaviour
 
     void Awake()
     {
-        uIController.Load();
+        uIController.Load(1);
     }                      
 }
