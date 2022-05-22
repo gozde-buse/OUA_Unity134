@@ -5,9 +5,10 @@ using UnityEngine;
 public class GameController : MonoBehaviour
 {
     //Leveli başlatmaya yönelik ve genel oyun içi kontrollerin olduğu sınıf.
+    [SerializeField] private InLevelUIController uIController;
 
-    void Start()
+    void Awake()
     {
-        
+        uIController.Load();
     }                      
 }
