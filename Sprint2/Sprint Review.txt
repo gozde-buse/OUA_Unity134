@@ -1,0 +1,3 @@
+	- Uygun assetler bulunamadığı için level sayısının 3'e düşürülmesine ve bu 3 leveldeki grafiklerin de değiştirilmesine karar verildi.
+	- Level tasarımı uygun 2 boyutlu grafiklerin bulunamamasından kaynaklanan süre uzaması sebebiyle bir sonraki sprinte bırakıldı.
+	- Bulunamayan bazı 2 boyutlu grafiklerin çizilmesine karar verildi.

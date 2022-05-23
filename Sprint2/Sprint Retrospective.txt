@@ -1,0 +1,3 @@
+	- Sürecin hızlandırılmasına ve yazılım ve tasarım kısmı da bittikten sonra hata giderme ve testlere süre ayrılması gerektiğine karar verildi.
+	- Github'da yaşanılan kullanım zorluğunu aşmak için sprint 3 başında toplantı yapılması ve bu sprunun çözülmesi uygun görüldü.
+	- Daily scrum toplantılarına katılımı sıklaştırmaya karar verildi.
