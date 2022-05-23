@@ -68,7 +68,11 @@ Kararlaştırılmadı.
 
 - **Backlog düzeni ve Story seçimleri**: Boardda hangi kullanıcı hikayelerin sprint 2 için seçildiği açıklama kısmında yazmaktadır. Bu sprintte seçim yazılım kısımlarına başlayacak ve tasarım kısımlarını büyük ölçüde bitirecek sekilde seçilmiştir.
 
-- **Daily Scrum**:
+- **Daily Scrum**: Daily scrum toplantıları github üzerinden yapılmıştır.
+  - [Sprint 1 Daily Scrum Notları](https://raw.githubusercontent.com/gozde-buse/OUA_Unity134/main/Sprint2/Daily%20Scrum/Sprint%202%20-%20Daily%20Scrum%20Toplant%C4%B1%20Notlar%C4%B1.txt)
+  - [10.05.2022 - Ekran Görüntüsü](https://github.com/gozde-buse/OUA_Unity134/blob/main/Sprint2/Daily%20Scrum/Sprint2-DailyScrum_10.05.2022.png)
+  - [11.05.2022 - Ekran Görüntüsü](https://github.com/gozde-buse/OUA_Unity134/blob/main/Sprint2/Daily%20Scrum/Sprint2-DailyScrum_11.05.2022.png)
+  - [15.05.2022 - Ekran Görüntüsü](https://github.com/gozde-buse/OUA_Unity134/blob/main/Sprint2/Daily%20Scrum/Sprint2-DailyScrum_15.05.2022.png)
 
 - **Sprint Board Update**:
 
