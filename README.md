@@ -75,9 +75,18 @@ Kararlaştırılmadı.
   - [15.05.2022 - Ekran Görüntüsü](https://github.com/gozde-buse/OUA_Unity134/blob/main/Sprint2/Daily%20Scrum/Sprint2-DailyScrum_15.05.2022.png)
 
 - **Sprint Board Update**:
+  - [09.05.2022 - Ekran Görüntüsü](https://github.com/gozde-buse/OUA_Unity134/blob/main/Sprint2/Sprint%20Board/sprint_board%2009.05.2022.png)
+  - [10.05.2022 - Ekran Görüntüsü](https://github.com/gozde-buse/OUA_Unity134/blob/main/Sprint2/Sprint%20Board/sprint_board%2010.05.2022.png)
+  - [11.05.2022 - Ekran Görüntüsü](https://github.com/gozde-buse/OUA_Unity134/blob/main/Sprint2/Sprint%20Board/sprint_board%2011.05.2022.png)
+  - [12.05.2022 - Ekran Görüntüsü](https://github.com/gozde-buse/OUA_Unity134/blob/main/Sprint2/Sprint%20Board/sprint_board%2012.05.2022.png)
+  - [13.05.2022 - Ekran Görüntüsü](https://github.com/gozde-buse/OUA_Unity134/blob/main/Sprint2/Sprint%20Board/sprint_board%2013.05.2022.png)
+  - [14.05.2022 - Ekran Görüntüsü](https://github.com/gozde-buse/OUA_Unity134/blob/main/Sprint2/Sprint%20Board/sprint_board%2014.05.2022.png)
+  - [20.05.2022 - Ekran Görüntüsü](https://github.com/gozde-buse/OUA_Unity134/blob/main/Sprint2/Sprint%20Board/sprint_board%2020.05.2022.png)
+  - [21.05.2022 - Ekran Görüntüsü](https://github.com/gozde-buse/OUA_Unity134/blob/main/Sprint2/Sprint%20Board/sprint_board%2021.05.2022.png)
+  - [22.05.2022 - Ekran Görüntüsü](https://github.com/gozde-buse/OUA_Unity134/blob/main/Sprint2/Sprint%20Board/sprint_board%2022.05.2022.png)
 
 - **Ürün Durumu**:
 
-- **Sprint Review**: -
+- **Sprint Review**:
 
-- **Sprint Retrospective:**
+- **Sprint Retrospective**:
