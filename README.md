@@ -32,7 +32,7 @@ Kararlaştırılmadı.
 ## Product Backlog URL
 [Backlog Linki](https://miro.com/app/board/uXjVO0wr1lo=/)
 
-- **Detaylar**: Puanlar Finobacci sayılarına göre belirlenmiştir. Linktekiboardda bulnan kartların açıklama kısımlarında, kullanıcı hikayeleri ve puanları yer almaktadır.
+- **Detaylar**: Puanlar Finobacci sayılarına göre belirlenmiştir. Linkteki boardda bulnan kartların açıklama kısımlarında, kullanıcı hikayeleri ve puanları yer almaktadır.
 
 # Sprint 1
 
@@ -64,6 +64,16 @@ Kararlaştırılmadı.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: Sprint sonuna kadar 110 puan tamamlanması planlanmaktadır.
 
-- **Puan tamamlama mantığı**: Sprint 2 başında 209 puanlık iş kalmıştır.
+- **Puan tamamlama mantığı**: Sprint 2 başında 209 puanlık iş kalmıştır. Puanlar Finobacci sayılarına göre belirlenmiştir. Linkteki boardda bulnan kartların açıklama kısımlarında, kullanıcı hikayeleri ve puanları yer almaktadır.
 
-- **Backlog düzeni ve Story seçimleri**: Boardda hangi kullanıcı hikayelerin sprint 2 için seçildiği açıklama kısmında yazmaktadır.
+- **Backlog düzeni ve Story seçimleri**: Boardda hangi kullanıcı hikayelerin sprint 2 için seçildiği açıklama kısmında yazmaktadır. Bu sprintte seçim yazılım kısımlarına başlayacak ve tasarım kısımlarını büyük ölçüde bitirecek sekilde seçilmiştir.
+
+- **Daily Scrum**:
+
+- **Sprint Board Update**:
+
+- **Ürün Durumu**:
+
+- **Sprint Review**: -
+
+- **Sprint Retrospective:**
