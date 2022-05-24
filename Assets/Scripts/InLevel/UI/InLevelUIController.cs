@@ -21,9 +21,8 @@ public class InLevelUIController : MonoBehaviour
     [SerializeField] private Sprite[] collectableSprites;
 
     [Header("Key UI")]
-    [SerializeField] private GameObject keyImage;
-    [SerializeField] private Image keyBgImage;
-    [SerializeField] private Sprite keyOnBgSprite;
+    [SerializeField] private Image keyImage;
+    [SerializeField] private Sprite keySprite;
 
     [Header("End Game UI")]
     [SerializeField] private Image collectableEndImage;
@@ -95,8 +94,7 @@ public class InLevelUIController : MonoBehaviour
     {
         //Baþka sýnýflarda da key activate edilecek.
 
-        keyImage.SetActive(true);
-        keyBgImage.sprite = keyOnBgSprite;
+        keyImage.sprite = keySprite;
     }
 
     public void GoToLevels()
