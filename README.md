@@ -86,6 +86,9 @@ Kararlaştırılmadı.
   - [22.05.2022 - Ekran Görüntüsü](https://github.com/gozde-buse/OUA_Unity134/blob/main/Sprint2/Sprint%20Board/sprint_board%2022.05.2022.png)
 
 - **Ürün Durumu**:
+  - [Ekran Görüntüsü 1](https://github.com/gozde-buse/OUA_Unity134/blob/main/Sprint2/%C3%9Cr%C3%BCn%20G%C3%B6r%C3%BCnt%C3%BCleri/Oyun%20son%20durum%201.png)
+  - [Ekran Görüntüsü 2](https://github.com/gozde-buse/OUA_Unity134/blob/main/Sprint2/%C3%9Cr%C3%BCn%20G%C3%B6r%C3%BCnt%C3%BCleri/Oyun%20son%20durum%202.png)
+  - [Ekran Görüntüsü 3](https://github.com/gozde-buse/OUA_Unity134/blob/main/Sprint2/%C3%9Cr%C3%BCn%20G%C3%B6r%C3%BCnt%C3%BCleri/Oyun%20son%20durum%203.png)
 
 - **Sprint Review**:
 	- Uygun assetler bulunamadığı için level sayısının 3'e düşürülmesine ve bu 3 leveldeki grafiklerin de değiştirilmesine karar verildi.
