@@ -88,5 +88,11 @@ Kararlaştırılmadı.
 - **Ürün Durumu**:
 
 - **Sprint Review**:
+	- Uygun assetler bulunamadığı için level sayısının 3'e düşürülmesine ve bu 3 leveldeki grafiklerin de değiştirilmesine karar verildi.
+	- Level tasarımı uygun 2 boyutlu grafiklerin bulunamamasından kaynaklanan süre uzaması sebebiyle bir sonraki sprinte bırakıldı.
+	- Bulunamayan bazı 2 boyutlu grafiklerin çizilmesine karar verildi.
 
 - **Sprint Retrospective**:
+	- Sürecin hızlandırılmasına ve yazılım ve tasarım kısmı da bittikten sonra hata giderme ve testlere süre ayrılması gerektiğine karar verildi.
+	- Github'da yaşanılan kullanım zorluğunu aşmak için sprint 3 başında toplantı yapılması ve bu sprunun çözülmesi uygun görüldü.
+	- Daily scrum toplantılarına katılımı sıklaştırmaya karar verildi.
