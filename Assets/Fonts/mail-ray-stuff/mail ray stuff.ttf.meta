@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 163a1a5424bb804418c3e96c7d292216
+guid: 5147cfdc90416914985d2fefd4809c68
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Eleaser Yanoke
+  - Mail Ray Stuff
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
